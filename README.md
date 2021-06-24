@@ -1,1 +1,1 @@
-This is a simple blog web-application developed using nextjs
+Basic blog web-application developed using nextjs
